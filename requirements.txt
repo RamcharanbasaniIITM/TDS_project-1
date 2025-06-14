@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+requests
+numpy
+sentence-transformers
+pydantic
+os
+dotenv
+json
+base64
+typing
